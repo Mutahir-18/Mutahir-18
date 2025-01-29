@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi, Ladies and Gentlemen</h1>
+<h1 align="center">Hi👋, Ladies and Gentlemen</h1>
 
 ###
 
@@ -30,7 +30,7 @@
 </div>
 
 
-<H6>Contact Me Here</H6>
+<H6>Contact Me Here 📞</H6>
 <hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -45,12 +45,12 @@
 
 <br clear="both">
 
-<h4 align="center">IT ALL STARTS WITH A DREAM !!</h4>
+<h4 align="center">IT ALL STARTS WITH A DREAM  !!</h4>
 <br clear="both">
 <div align="center">
   <img height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn_2Px9Y4-g4tIA_SzRnj5wiBC7jRN7oLYA&s"  />
 </div>
 <hr>
-<h5 align="right">Mercedes C63 - W204 - 2010</h5>
+<h5 align="right">Mercedes C63 - W204 - 2010 💀</h5>
 <hr>
 
