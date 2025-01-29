@@ -52,13 +52,8 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn_2Px9Y4-g4tIA_SzRnj5wiBC7jRN7oLYA&s"  />
+  <img height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn_2Px9Y4-g4tIA_SzRnj5wiBC7jRN7oLYA&s"  />
 </div>
-
-###
-
-<br clear="both">
-
 <h4 align="right">Mercedes C63 - W204 - 2010</h4>
 
 ###
