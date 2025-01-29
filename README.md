@@ -29,10 +29,9 @@
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
 </div>
 
-###
 
-<br clear="both">
-
+<H2>Contact Me Here</H2>
+<hr>
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <a href="https://www.instagram.com/mutahir_spam?igsh=MW91dXgxNmdjNDJicA%3D%3D&utm_source=qr" target="_blank">
@@ -40,6 +39,7 @@
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
+<hr>
 
 ###
 
