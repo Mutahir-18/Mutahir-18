@@ -45,12 +45,12 @@
 
 <br clear="both">
 
-<h1 align="center">IT ALL STARTS WITH A DREAM !!</h1>
+<h4 align="center">IT ALL STARTS WITH A DREAM !!</h4>
 <br clear="both">
 <div align="center">
   <img height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn_2Px9Y4-g4tIA_SzRnj5wiBC7jRN7oLYA&s"  />
 </div>
 <hr>
-<h4 align="right">Mercedes C63 - W204 - 2010</h4>
+<h5 align="right">Mercedes C63 - W204 - 2010</h5>
 <hr>
 
