@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi, Ladies and Gentlemen</h2>
+<h1 align="center">Hi, Ladies and Gentlemen</h1>
 
 ###
 
